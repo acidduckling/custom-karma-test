@@ -1,4 +1,4 @@
-module.exports = () => {
+module.exports = (env) => {
     return {
         entry: {
             main: './src/main.ts'
